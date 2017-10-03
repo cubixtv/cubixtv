@@ -1,0 +1,11 @@
+# Desenvolvido por André Rodrigues 02/10
+# Configuração e personalização do Orange Pi ONE
+# Projeto CubixTV e CubixClient
+
+Hoje 03/10/2017, realizando analise dos sistemas a serem testados como Android 4.4.1 (HomeMediaCenter) e DietiPI(Cliente boot PXE).
+Realizando teste com Android 4.4.1:
+1 - Orange PI ONE 
+2 - Android 4.4.1.img (Site da Orange PI)
+3 - PhoenixCard 3.1
+4 - SD 8 GB C4
+
